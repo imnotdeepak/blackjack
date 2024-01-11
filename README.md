@@ -10,4 +10,4 @@ Once you are dealt your hand, you will be asked if you want to hit or stand (ass
 - if you type in "hit" or "h", you will receive another card. if you have not gotten blackjack or have busted, you will be prompted with the same question
 - if you type in "stand" or "s", you will not receive another card and the dealer will either start to deal or will stand
 
-Once the winner is confirmed, it will be stated and the game is over
+Once the winner is confirmed, it will be stated as such and the game is over
